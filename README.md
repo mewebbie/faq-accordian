@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://mewebbie.github.io/faq-accordian/](https://your-solution-url.com)
-- Live Site URL: [https://mewebbie.github.io/faq-accordian/](https://your-live-site-url.com)
+- Solution URL: [https://mewebbie.github.io/faq-accordian/](https://www.frontendmentor.io/solutions/faq-accordion-page-yCWa3edBM)
+- Live Site URL: [](https://mewebbie.github.io/faq-accordian/)
 
 ## My process
 
