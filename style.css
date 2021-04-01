@@ -127,6 +127,7 @@ body {
     }
     .box {
         margin-right:0%;
+        height:40px;
     }
     .span {
         position:absolute;
