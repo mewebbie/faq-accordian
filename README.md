@@ -55,7 +55,7 @@ I really look forward to clear my doubts about keyframes and transitions of CSS 
 ## Author
 
 - Frontend Mentor - [@mewebbie](https://www.frontendmentor.io/profile/mewebbie)
-- Twitter - [@prakashvoiceout](https://www.twitter.com/yourusername)
+- Twitter - [@prakashvoiceout](https://www.twitter.com/prakashvoiceout)
 
 ## Acknowledgments
 
